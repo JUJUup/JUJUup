@@ -17,12 +17,21 @@ Here are some ideas to get you started:
 
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://jujuup.github.io/atom.xml)
 
-- Bicycle/Motor
-- Harmonica
+- NJUer/Atmospheric science/Data assimilation
+- Bicycle/Motor Ride-Racing-Repair and Bike Tour!!!
+- Harmonica (not a good player yet...)
 
-```html
-<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/108697988/latest-rides/5f9eb7a506d0cee585e9d680f6d1b20691a551ea'></iframe>
-```
+Other place to find me：
 
-Other place to find me：[bilibili](https://space.bilibili.com/259337113?spm_id_from=333.1007.0.0) , [twitter](https://twitter.com/JUJU66206378), [Mail](mailto:DZ21280003@smail.nju.edu.cn), [My Notebook](https://jujuup.github.io/JUJUnotebook/)， [strava(Haoxing Ju)](https://www.strava.com/athletes/108697988)
+[My Blog](https://jujuup.github.io/about/)
+
+[My Notebook](https://jujuup.github.io/JUJUnotebook/)
+
+[Bilibili](https://space.bilibili.com/259337113?spm_id_from=333.1007.0.0)
+
+[Twitter/X](https://twitter.com/JUJU66206378)
+
+[Email](mailto:DZ21280003@smail.nju.edu.cn)
+
+[Strava(Haoxing Ju)](https://www.strava.com/athletes/108697988)
 
